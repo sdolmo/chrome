@@ -4,12 +4,12 @@
   "version": "1.0",
   "description": "A hello world extension",
   "icons": {
-    "128": "optimizer-logo128.png",
-    "48": "optimizer-logo48.png",
-    "16": "optimizer-logo16.png"
+    "128": "images/optimizer-logo128.png",
+    "48": "images/optimizer-logo48.png",
+    "16": "images/optimizer-logo16.png"
   },
   "browser_action": {
-    "default_icon": "optimizer-logo16.png",
+    "default_icon": "images/optimizer-logo16.png",
     "default_title": "Optimizer",
     "default_popup": "popup.html"
   }
